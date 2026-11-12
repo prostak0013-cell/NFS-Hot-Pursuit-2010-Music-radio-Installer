@@ -10,7 +10,7 @@ The utility automatically converts audio tracks into the game's native format (`
 * **Safety First:** Automatically creates backups of original tracks (`UI\SONGS\BACKUP`) and allows one-click restoration.
 
 ## How to Use (For Players)
-1. Go to the **[Releases](../../releases)** section on the right and download **`NFS_HP_Music_Installer.exe`** (or **`NFS_HP_Music.exe`**).
+1. Go to the **[Releases](../../releases)** section on the right and download **`NFS_HP_Music2.0.exe`** (or **`NFS_HP_Music.exe`**).
 2. Launch the program and select the folder of your installed game (`Need for Speed Hot Pursuit` or directly `UI\SONGS`).
 3. Double-click the desired slots to assign your `.mp3` tracks (or click batch-fill for all 27 radio tracks).
 4. Click **"УСТАНОВИТЬ В ИГРУ"** / **"INSTALL TO GAME"**.
@@ -45,7 +45,7 @@ Reading this back, it looks super simple, right? Well, it took me a couple of ho
 * **Безопасность:** автоматическое создание резервных копий оригинальных треков (`UI\SONGS\BACKUP`) и восстановление в один клик.
 
 ## Как пользоваться (для игроков)
-1. Перейдите в раздел **[Releases](../../releases)** справа и скачайте готовый файл **`NFS_HP_Music_Installer.exe`** (или **`NFS_HP_Music.exe`**).
+1. Перейдите в раздел **[Releases](../../releases)** справа и скачайте готовый файл **`NFS_HP_Music2.0.exe`** (или **`NFS_HP_Music.exe`**).
 2. Запустите программу и укажите папку с установленной игрой (`Need for Speed Hot Pursuit` или сразу `UI\SONGS`).
 3. Двойным кликом выберите нужные слоты и назначьте свои `.mp3` треки (либо нажмите «Заполнить радио пачкой»).
 4. Нажмите **«УСТАНОВИТЬ В ИГРУ»**.
